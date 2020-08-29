@@ -35,6 +35,8 @@ https://github.com/xiazemin/jsonToAll
 #### 排查超时函数
 
 https://github.com/xiazemin/slowLog  
+#### 实现扩展类 
+https://github.com/xiazemin/php_ext_class
 
 ### php代码工具
 #### 查找import指定目录以外的包
