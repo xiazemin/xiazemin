@@ -43,6 +43,10 @@ https://github.com/xiazemin/php_ext_class
 php项目改造的时候，快速查找非指定目录内部的namespace，快速排错
 https://github.com/xiazemin/php_imports
 
+####  可视化php调用链路
+https://github.com/xiazemin/PhpParserEngine
+![可视化调用链路](https://github.com/xiazemin/PhpParserEngine/blob/master/Execute/test.png) 
+
 ## 我的公众号
 ![关注我](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzUxMDk3MTczMA==&mid=2247484879&idx=1&sn=00a04ae673f875071cd611445a9dc1b2&send_time=)
 
