@@ -22,12 +22,13 @@ Here are some ideas to get you started:
 
 #### 支持in 语法的 sqlc 
 sqlc that support in syntax
-·
+```
 -- name: GetOneAuthor :one
 SELECT * FROM authors where  id in (?)  and bio=? and  name in (?)  limit 1;
-·
+```
 源码：https://github.com/xiazemin/sqlc
 实例：https://github.com/xiazemin/sqlc_study
+安装：go get -u github.com/xiazemin/sqlc 
 
 #### 可视化golang语法树  
 
