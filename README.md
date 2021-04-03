@@ -20,6 +20,10 @@ Here are some ideas to get you started:
 
 ### golang：
 
+#### 自动生成带gomock的table driving test 代码工具
+源码：https://github.com/xiazemin/autotest
+实例：https://github.com/xiazemin/tabel_drving_test_learn
+
 #### 支持in 语法的 sqlc 
 sqlc that support in syntax
 ```
