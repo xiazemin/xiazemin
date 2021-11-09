@@ -44,7 +44,10 @@ https://github.com/xiazemin/ast_graph
 
 #### json转golang结构体  
 
-https://github.com/xiazemin/jsonToAll   
+https://github.com/xiazemin/jsonToAll 
+
+mysql压测工具：
+https://github.com/xiazemin/mysqlslap-go
 
 ### php扩展：
 
