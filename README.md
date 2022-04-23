@@ -32,6 +32,17 @@ sqlc that support in syntax
 -- name: GetAuthorsInCompany :many
 SELECT * FROM authors where company_id in ( select id from company where id in (?) and name in (?) );
 ```
+支持不定长values语法
+```
+/* name: BatchCreateAuthor :execresult */
+INSERT INTO authors (
+  id,name,bio,company_id
+) VALUES (
+  ?,?, ?,1 
+),(
+  ?,?, ?,1 
+);
+```
 源码：https://github.com/xiazemin/sqlc
 实例：https://github.com/xiazemin/sqlc_study
 安装：go get -u github.com/xiazemin/sqlc 
