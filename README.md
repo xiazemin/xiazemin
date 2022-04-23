@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 安装：go get -u github.com/xiazemin/autotest/gotests
 ![自动生成带gomock的代码](https://github.com/xiazemin/autotest/blob/master/WechatIMG600.jpeg)
 
-#### 支持in 语法的 sqlc 
+#### 支持in 和values 语法的 sqlc 
 sqlc that support in syntax
 ```
 -- name: GetAuthorsInCompany :many
