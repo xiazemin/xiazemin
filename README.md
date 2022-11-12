@@ -57,6 +57,14 @@ https://github.com/xiazemin/ast_graph
 
 https://github.com/xiazemin/jsonToAll 
 
+#### proto 生成xmind文件
+https://github.com/xiazemin/proto2xmind
+
+安装： go install github.com/xiazemin/proto2xmind
+使用： proto2xmind gen -s ./example/sub.proto -s ./example/request.proto -d ./example/example.xmind
+
+![example.xmind](https://github.com/xiazemin/proto2xmind/blob/main/example/root.proto.png)
+
 #### json格式生成xmind文件
 给定父子结构关系json，生成对应的xmind文件
 https://github.com/xiazemin/xmind-go
