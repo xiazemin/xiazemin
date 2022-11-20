@@ -53,6 +53,11 @@ https://github.com/xiazemin/ast_graph
 
 ![可视化语法树](https://github.com/xiazemin/ast_graph/blob/master/tree.svg) 
 
+
+#### nacos sidecar服务自动注册
+https://github.com/xiazemin/registrator-nacos
+![nacos sidecar服务自动注册](https://github.com/xiazemin/registrator-nacos/blob/main/nacos.jpeg)
+
 #### json转golang结构体  
 
 https://github.com/xiazemin/jsonToAll 
