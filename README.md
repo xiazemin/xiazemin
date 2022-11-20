@@ -56,7 +56,21 @@ https://github.com/xiazemin/ast_graph
 
 #### nacos sidecar服务自动注册
 https://github.com/xiazemin/registrator-nacos
+
 ![nacos sidecar服务自动注册](https://github.com/xiazemin/registrator-nacos/blob/main/nacos.jpeg)
+
+```
+docker run -d \
+    --name=registrator-nacos \
+    --net=host \
+    --volume=/var/run/docker.sock:/tmp/docker.sock \
+    xiazemin/registrator-nacos:v0.0.1 \
+      nacos://127.0.0.1
+```
+```
+docker run  -p5678:5678 yourservice:yourport
+```
+
 
 #### json转golang结构体  
 
