@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 最近的轮子项目  
+## 最近的轮子项目 
+
+### vscode 插件
+https://github.com/xiazemin/golangCodeHelper
+支持右键从json文件生成golang结构体，从curl生成golang http请求代码 
 
 ### golang：
 
