@@ -32,7 +32,8 @@ https://github.com/xiazemin/golangCodeHelper
 
 #### 上传代码，生成导出函数的树形逻辑分支，支持动态编辑
 https://github.com/xiazemin/jstree-go
-https://github.com/xiazemin/jstree-go/blob/main/static/1677917465883.jpg
+逻辑分支可视化(https://github.com/xiazemin/jstree-go/blob/main/static/1677917465883.jpg)
+
 
 #### 支持in 和values 语法的 sqlc 
 sqlc that support in syntax
