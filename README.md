@@ -30,6 +30,10 @@ https://github.com/xiazemin/golangCodeHelper
 安装：go get -u github.com/xiazemin/autotest/gotests
 ![自动生成带gomock的代码](https://github.com/xiazemin/autotest/blob/master/WechatIMG600.jpeg)
 
+#### 上传代码，生成导出函数的树形逻辑分支，支持动态编辑
+https://github.com/xiazemin/jstree-go
+https://github.com/xiazemin/jstree-go/blob/main/static/1677917465883.jpg
+
 #### 支持in 和values 语法的 sqlc 
 sqlc that support in syntax
 ```
